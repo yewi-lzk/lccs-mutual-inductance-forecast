@@ -1,0 +1,2 @@
+# Optional dependency for scripts/plot.py. Verification uses the Python standard library.
+matplotlib>=3.6,<4

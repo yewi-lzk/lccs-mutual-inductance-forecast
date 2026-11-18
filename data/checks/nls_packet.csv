@@ -1,0 +1,9 @@
+﻿case_id,noise_token,time_s,role,quantity,frequency_Hz,I_real_mA_rms,I_imag_mA_rms,I_magnitude_mA_rms,I_phase_deg,ref_uH,NLS_est_uH,abs_relative_error_pct
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_input,primary_current,59000,48.2370832837181,-38.597987164990414,61.778805563956325,-38.665834024924315,,,
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_input,primary_current,64000,83.75896269071696,-15.25783915698833,85.1373330963887,-10.32400629314965,,,
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_input,primary_current,69000,96.02162535273497,-31.51049373976765,101.05970389381184,-18.16778696063857,,,
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_input,primary_current,74000,77.9622991108125,-22.3199833248456,81.09440016588802,-15.975994196371477,,,
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_input,primary_current,79000,73.57588409691932,18.57886967882914,75.88534192573836,14.17167956288532,,,
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_current_output_and_reference,M,69000,,,,,19.912623212993296,19.901641331127543,0.05515035235833677
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_current_output_and_reference,L1,69000,,,,,49.305777061490886,49.24165956316481,0.13004053915651786
+new_test_OOD_chirp_00,n100_r0,1.0,NLS_current_output_and_reference,L2,69000,,,,,92.95383466635957,92.97053769886273,0.017969169925168647

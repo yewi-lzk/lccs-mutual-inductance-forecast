@@ -1,0 +1,3 @@
+﻿case_id,max_relative_complex_I,mean_relative_complex_I,relative_I_threshold,passed
+pilot_val_ID_constant_pass_00,1.1043629378230158e-06,7.176235224389359e-07,0.0001,True
+pilot_val_ID_chirp_00,3.0831510828845038e-06,8.230703349016631e-07,0.0001,True
